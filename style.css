@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* body{
+    background-color: black;
+} */
+
+.header{
+    width: 100%;
+    height: 20%;
+    position: absolute;
+    background-color: rgb(255, 74, 8);
+}
+
+.header h4{
+    margin-top: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 30px;
+    justify-content: center;
+    color: #fff;
+}
+
+.header p{
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+}
+
+.header2{
+  margin-top: 150px;
+    width: 100%;
+    height: 1500px;
+    position: absolute;
+    background-color: black
+}
+
+.header2 h5{
+    margin-top: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bolder;
+    font-size: 30px;
+    justify-content: center;
+    color: #fff;
+}
+
+.header2 p{
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.header2 h3{
+  text-decoration: underline;
+  text-align: center;
+  font-size: 60px;
+  color: #fff;
+  font-family:sans-serif;
+  font-weight: bolder;
+
+}
+.online{
+  text-decoration: none;
+}
+
+video{
+  margin-top: 30px;
+  height: 200px;
+  width: 350px;
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+.header2 h4{
+  margin-top: 15px;
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bolder;
+  font-size: 30px;
+  justify-content: center;
+  color: red;
+}
+
+h6{
+  font-family: 'Times New Roman';
+  font-size: 25px;
+  color: white;
+  text-align: center;
+
+}
+
+.article{
+  color: white;
+  text-align: center;
+  font-family: sans-serif;
+  margin-top: 15px;
+  padding: 10px;
+}
+
+.header2 h2{
+  font-family: cursive;
+  font-weight: bolder;
+  margin-top: 15px;
+  text-align: center;
+  color: #fff;
+}
+
+.header2 img{
+  border: 3px solid white;
+  margin-top: 20px;
+  border-radius: 6px;
+
+}
+
+.now{
+  color: white;
+  text-align: center;
+  font-family:cursive;
+  margin-top: 15px;
+  padding: 10px;
+}
+
+span{
+     color: red;
+}
+
+.click{
+  font-size: 15px;
+  text-align: center;
+  text-decoration: none;
+  color: blue;
+  font-family: sans-serif;
+  font-weight: bolder;
+}
+button{
+  margin-top: 15px;
+}
